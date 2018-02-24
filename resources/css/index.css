@@ -117,3 +117,18 @@ body {
 .appointments {
 	margin-left: 5%;
 }
+
+/*footer section*/
+
+.footer {
+	background-color: azure;
+	display: flex;
+	align-items: center;
+	padding: 4rem;
+	margin-top: 5rem;
+}
+
+.footer img {
+	height: 1.5rem;
+	margin-right: 1.5rem;
+}
