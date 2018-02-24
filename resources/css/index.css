@@ -58,3 +58,30 @@ body {
 	line-height: 1.2;
 	margin-top: 10rem;
 }
+
+/*middle section*/
+
+.superlatives {
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	height: 8rem;
+	margin: 3rem auto;
+}
+
+.super {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 6rem;
+	width: 5rem;
+}
+
+.super img {
+	width: 3.5rem;
+}
+
+.super span {
+	text-align: center;
+}
